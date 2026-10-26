@@ -1,3 +1,4 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
@@ -5,6 +6,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "undertaker": {
+      "repo": "https://github.com/maresefid/undertaker-panel",
+      "target": "sync-dock-t3qklc.pages.dev"
     }
   },
   "openrepos.sh": {},
